@@ -1,7 +1,8 @@
 # Bang!
 Reflex based game for the RaspberryPi (GPIO)
 
-To play one of the players needs to hold his button. The green LED will flash telling the players to get ready.
+To play one of the players needs to hold their button. 
+The green LED will flash telling the players to get ready.
 When the green LED flashes the second time players need to push the button as soon as they can.
 After either of the players scored a point, the amount of points will be shown through the flashes of the green LED.
 The point limit is 5 after which the game will return to the main menu.
