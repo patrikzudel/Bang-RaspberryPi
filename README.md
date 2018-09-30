@@ -12,8 +12,8 @@ You will need
  - 2 Buttons
  
  Plug them into these GPIO pins:
- Player1 LED = 23
- Player1 Button = 18
- Green LED = 25
- Player2 LED = 12
- Player2 Button = 21
+- Player1 LED = 23
+- Player1 Button = 18
+- Green LED = 25
+- Player2 LED = 12
+- Player2 Button = 21
